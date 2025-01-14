@@ -1,0 +1,2116 @@
+fileFormatVersion: 2
+guid: 98bfcab9d3b7a074e943d2c8b00cfca8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3623
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67581850d23a68b4b9f7ebfc49d0b2b6
+      internalID: -1900125400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3628
+        width: 13
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2156816e59c48294eb1058c2836df098
+      internalID: -1175273903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3626
+        width: 85
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4c8337910a663459b225429e46f9f2
+      internalID: 1001669664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3625
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4177fc483ecfa8a40b37227d5b2c9d77
+      internalID: -183476166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3630
+        width: 85
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c5b9cf15aae4e4685852736922275a
+      internalID: -655922474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3657
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afdf2bcc8590574ea30c77b0c632638
+      internalID: -1858646367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 3615
+        width: 85
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f717d7e9761f81469d36344a5aa7854
+      internalID: 1378700517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_7
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3651
+        width: 4
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3bafcbc2f06c44a958b06b9dc9238
+      internalID: 1703930035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3485
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef479a89212b54b806f810c01656dc
+      internalID: -808575001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3486
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ddbc0694a43e749b752e77a21b51e5
+      internalID: -644928019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3482
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92f217490f8ea1458455271496c6287
+      internalID: 236429221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_11
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3482
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1fc37815e1d4e438dc6a7a28eb2627
+      internalID: 1057585274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_12
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3484
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29b8d32cf805747bd5a5b7db1c6e50
+      internalID: -2023463896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3485
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab09e86826c7d41aee168ec87de8cf
+      internalID: 672238731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3485
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d099b84a6771694f82724f9d50eab43
+      internalID: 306502852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3485
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caec7336b437a74f89b4cc103bc338c
+      internalID: 1855945569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 3467
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99a0e0bbb10c64dad99d1bc836bf72
+      internalID: 1073588556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3467
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9f49a3566c53c458b510f950b80438
+      internalID: -827946062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_18
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3475
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6925c7083398734ca3e054ec6f4c05a
+      internalID: 697466516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3469
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05bffa4271696f41b7b78fe89f6a510
+      internalID: 510200213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_20
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3477
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e6b523d463d97479b2bc187d67d516
+      internalID: -312746950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3371
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8eff57db6d08147834ae3fc2be2322
+      internalID: -907809427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3371
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87868b63a92969e47947b843fa0a4527
+      internalID: -2059354746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3423
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63318df700fb6a64ebf84b7d5c23fb95
+      internalID: -1560973315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3415
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5c2ae76bf259745baaa59652224e5a
+      internalID: 1223472861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3389
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e055ca4a64f54bb023efeb4af80eb
+      internalID: -1002214602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_26
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3389
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a31587957f26e40b359a48370d7c23
+      internalID: 2081699342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_27
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 3389
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11345a9907114f9488c994d9c491eb57
+      internalID: 506314881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3380
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff868fb10f872234aaddae77ecfffe48
+      internalID: -545019289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3288
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2890e0716b303446b0275a25b56bf8e
+      internalID: 1668189992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3296
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6440c91f16101e047b68ec29fb85ced6
+      internalID: -6996805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3329
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a5ef8fb50c93549a1ed797beec1e7d
+      internalID: 2043196156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3323
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8d6b535fbc5a4c98f059b55658f00
+      internalID: 1755706054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_33
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3320
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9176e067d846941a4e65b3caaed346
+      internalID: 1378236379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_34
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3326
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b083c848946d4c8cf8824c35b0a65
+      internalID: -242452581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_35
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3323
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e0d512fabd9ee46a897381ac1e98e0
+      internalID: 2055336455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_36
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3324
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f3372f6d370064d8a9efe114dc9eeb
+      internalID: -152433290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_37
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 3217
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca34ae5520a974b86018bc903a33b5
+      internalID: -1640675113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3215
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b31503238b3714bb8c477de6c732e0
+      internalID: 270541220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3264
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c91d49f9e1cf4dadbc090d4f84069
+      internalID: -1591546289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3264
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc4a29b2b835c47bde0f02b4f18f5d
+      internalID: -416778732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3258
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3066b4310a5234f8014a512747a43d
+      internalID: 882107226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_42
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3258
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b0a1fa05b59324e816d1259b5c6089
+      internalID: 1180836396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_43
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3266
+        width: 81
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298bd17e75aa7534082b7ec15e7909af
+      internalID: -1470954208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3210
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50263030856e7a84d97bdbefaf0a3dfc
+      internalID: 551698690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3210
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a651ae81a90e59849adda6ed4ba798d2
+      internalID: -1263493815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_46
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3195
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd6df11ca7941348aec864bd3518b5a
+      internalID: 937626055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3155
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148890545d233f740ab6660faa0b2ee9
+      internalID: 64158482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3178
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171bdaee26806e4986e513640ae2983
+      internalID: -1339670154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_49
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3162
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653dc942a9ee70e45a26a5fd3a452f63
+      internalID: -1103910850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_50
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3165
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7e38d31db801744b300f9380a78f9b
+      internalID: 583378790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3162
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4b2400787eda4a89730dde0e2f512
+      internalID: 1467117362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3155
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d82bb56eab24547bec2ba10ad8c75c
+      internalID: -2086366270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_53
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3165
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ba722e13cab647a85fdbf178c2a0c
+      internalID: 1545980216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2787
+        width: 30
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15238a75445258744970272cac00f3f6
+      internalID: 1469596567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2786
+        width: 29
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1710b9ca86af63439a2e35f95b13fe5
+      internalID: -887971904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_56
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2890
+        width: 44
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4284071d4af71459ad00d0c83ec039
+      internalID: -298459247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_57
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2940
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df019a7c25705a24f8390da6de38c103
+      internalID: 127685229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_58
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2920
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b0dc725488a3b4bb872043a6784f27
+      internalID: -1931420994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2972
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd47728af1ae934f8ed59ac29282105
+      internalID: 1548802179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_60
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2960
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1603174e87a740f449e3d20442d38c52
+      internalID: -2097935131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_61
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2945
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d25146725572814bb85a24a335fcf34
+      internalID: 505419499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_62
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2945
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a20b780f2f2049a922fa95449d3d8
+      internalID: -1478565072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_63
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2945
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb9ba6fd9c4d941923b6a915f7022e
+      internalID: 1543700109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_64
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2945
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895535b9f32453047a6e8e156245e569
+      internalID: -1520863254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_65
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2945
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e528c0cf6efbc6a4199606dbd1b3a181
+      internalID: -534098720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_66
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2946
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714225880cf895e4b947ac390418343f
+      internalID: -1879840348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_67
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2922
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c36ae613125f646aa6be8383aec538
+      internalID: -1445252486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2781
+        width: 59
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87e8455e047a3c468705b963855732b
+      internalID: -1655940006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_69
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2789
+        width: 30
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23cd5fcf1c39c04f8353a7411edebd0
+      internalID: 989085967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_70
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2790
+        width: 28
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11580e3f59638fe4d95cc76d25e8a4c4
+      internalID: 513950947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_71
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2790
+        width: 28
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609d501d4a2f0e46ad4f33d515e0e6f
+      internalID: 149563146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_72
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2867
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25219c1c6db9c3f499d316f9b8202919
+      internalID: -121500070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_73
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2867
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef62f428a09cd2642b56577d2816ba12
+      internalID: 1499010932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_74
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 2866
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48736520a37584e9bedb7009e70451
+      internalID: -1309584499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_75
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2875
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aed9813d46de064ebb5f16d9ae3d6d9
+      internalID: -1398565736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_76
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2787
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c98cffe0a35b40b811dd422843161
+      internalID: 1924970855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_77
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2787
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f224b1c98ff8cd8489eb2041e940ad0d
+      internalID: 511987333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_78
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2791
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ed4135684262b45ad704fc645a1063
+      internalID: -1073731520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_79
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2791
+        width: 30
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b198bfdd4aed7c44bd82f2cd1d4b9cb
+      internalID: 1691364399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_80
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2790
+        width: 29
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42658531f5d2dd04aac59d31bd253793
+      internalID: -1491156294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_81
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2787
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb76896b818cc4caa136b5eda0afb1
+      internalID: -930383081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_82
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2791
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd624c8bf85884f8d3d233afaca03e
+      internalID: 148300791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_83
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2790
+        width: 11
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f1b9a3e8ba0a4cb218056eccf099b
+      internalID: -2027018780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_84
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2783
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91321b4376e51e6489cfd13121eea6a6
+      internalID: 1195900712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_85
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2614
+        width: 202
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29932f3032963a34c93dbf3110126b41
+      internalID: 1360669460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_86
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2615
+        width: 202
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a734947a067f0f845816901069449701
+      internalID: 131579637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2619
+        width: 171
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c472274fdc8f8f94490c7de06a9fda27
+      internalID: -899323885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_88
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2448
+        width: 202
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7c99a2ca6055d46a006dd82f324a04
+      internalID: -1561265626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_89
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2469
+        width: 322
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99f543359e7bc84685660a212d5f03e
+      internalID: -169199258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_Axo+Front_1x_241027_v2_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2105
+        width: 472
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abe08e1955b3e14c958b251f0d8d782
+      internalID: -1980032517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_Axo+Front_1x_241027_v2_0: -1900125400
+      Atlas_Axo+Front_1x_241027_v2_1: -1175273903
+      Atlas_Axo+Front_1x_241027_v2_10: 236429221
+      Atlas_Axo+Front_1x_241027_v2_11: 1057585274
+      Atlas_Axo+Front_1x_241027_v2_12: -2023463896
+      Atlas_Axo+Front_1x_241027_v2_13: 672238731
+      Atlas_Axo+Front_1x_241027_v2_14: 306502852
+      Atlas_Axo+Front_1x_241027_v2_15: 1855945569
+      Atlas_Axo+Front_1x_241027_v2_16: 1073588556
+      Atlas_Axo+Front_1x_241027_v2_17: -827946062
+      Atlas_Axo+Front_1x_241027_v2_18: 697466516
+      Atlas_Axo+Front_1x_241027_v2_19: 510200213
+      Atlas_Axo+Front_1x_241027_v2_2: 1001669664
+      Atlas_Axo+Front_1x_241027_v2_20: -312746950
+      Atlas_Axo+Front_1x_241027_v2_21: -907809427
+      Atlas_Axo+Front_1x_241027_v2_22: -2059354746
+      Atlas_Axo+Front_1x_241027_v2_23: -1560973315
+      Atlas_Axo+Front_1x_241027_v2_24: 1223472861
+      Atlas_Axo+Front_1x_241027_v2_25: -1002214602
+      Atlas_Axo+Front_1x_241027_v2_26: 2081699342
+      Atlas_Axo+Front_1x_241027_v2_27: 506314881
+      Atlas_Axo+Front_1x_241027_v2_28: -545019289
+      Atlas_Axo+Front_1x_241027_v2_29: 1668189992
+      Atlas_Axo+Front_1x_241027_v2_3: -183476166
+      Atlas_Axo+Front_1x_241027_v2_30: -6996805
+      Atlas_Axo+Front_1x_241027_v2_31: 2043196156
+      Atlas_Axo+Front_1x_241027_v2_32: 1755706054
+      Atlas_Axo+Front_1x_241027_v2_33: 1378236379
+      Atlas_Axo+Front_1x_241027_v2_34: -242452581
+      Atlas_Axo+Front_1x_241027_v2_35: 2055336455
+      Atlas_Axo+Front_1x_241027_v2_36: -152433290
+      Atlas_Axo+Front_1x_241027_v2_37: -1640675113
+      Atlas_Axo+Front_1x_241027_v2_38: 270541220
+      Atlas_Axo+Front_1x_241027_v2_39: -1591546289
+      Atlas_Axo+Front_1x_241027_v2_4: -655922474
+      Atlas_Axo+Front_1x_241027_v2_40: -416778732
+      Atlas_Axo+Front_1x_241027_v2_41: 882107226
+      Atlas_Axo+Front_1x_241027_v2_42: 1180836396
+      Atlas_Axo+Front_1x_241027_v2_43: -1470954208
+      Atlas_Axo+Front_1x_241027_v2_44: 551698690
+      Atlas_Axo+Front_1x_241027_v2_45: -1263493815
+      Atlas_Axo+Front_1x_241027_v2_46: 937626055
+      Atlas_Axo+Front_1x_241027_v2_47: 64158482
+      Atlas_Axo+Front_1x_241027_v2_48: -1339670154
+      Atlas_Axo+Front_1x_241027_v2_49: -1103910850
+      Atlas_Axo+Front_1x_241027_v2_5: -1858646367
+      Atlas_Axo+Front_1x_241027_v2_50: 583378790
+      Atlas_Axo+Front_1x_241027_v2_51: 1467117362
+      Atlas_Axo+Front_1x_241027_v2_52: -2086366270
+      Atlas_Axo+Front_1x_241027_v2_53: 1545980216
+      Atlas_Axo+Front_1x_241027_v2_54: 1469596567
+      Atlas_Axo+Front_1x_241027_v2_55: -887971904
+      Atlas_Axo+Front_1x_241027_v2_56: -298459247
+      Atlas_Axo+Front_1x_241027_v2_57: 127685229
+      Atlas_Axo+Front_1x_241027_v2_58: -1931420994
+      Atlas_Axo+Front_1x_241027_v2_59: 1548802179
+      Atlas_Axo+Front_1x_241027_v2_6: 1378700517
+      Atlas_Axo+Front_1x_241027_v2_60: -2097935131
+      Atlas_Axo+Front_1x_241027_v2_61: 505419499
+      Atlas_Axo+Front_1x_241027_v2_62: -1478565072
+      Atlas_Axo+Front_1x_241027_v2_63: 1543700109
+      Atlas_Axo+Front_1x_241027_v2_64: -1520863254
+      Atlas_Axo+Front_1x_241027_v2_65: -534098720
+      Atlas_Axo+Front_1x_241027_v2_66: -1879840348
+      Atlas_Axo+Front_1x_241027_v2_67: -1445252486
+      Atlas_Axo+Front_1x_241027_v2_68: -1655940006
+      Atlas_Axo+Front_1x_241027_v2_69: 989085967
+      Atlas_Axo+Front_1x_241027_v2_7: 1703930035
+      Atlas_Axo+Front_1x_241027_v2_70: 513950947
+      Atlas_Axo+Front_1x_241027_v2_71: 149563146
+      Atlas_Axo+Front_1x_241027_v2_72: -121500070
+      Atlas_Axo+Front_1x_241027_v2_73: 1499010932
+      Atlas_Axo+Front_1x_241027_v2_74: -1309584499
+      Atlas_Axo+Front_1x_241027_v2_75: -1398565736
+      Atlas_Axo+Front_1x_241027_v2_76: 1924970855
+      Atlas_Axo+Front_1x_241027_v2_77: 511987333
+      Atlas_Axo+Front_1x_241027_v2_78: -1073731520
+      Atlas_Axo+Front_1x_241027_v2_79: 1691364399
+      Atlas_Axo+Front_1x_241027_v2_8: -808575001
+      Atlas_Axo+Front_1x_241027_v2_80: -1491156294
+      Atlas_Axo+Front_1x_241027_v2_81: -930383081
+      Atlas_Axo+Front_1x_241027_v2_82: 148300791
+      Atlas_Axo+Front_1x_241027_v2_83: -2027018780
+      Atlas_Axo+Front_1x_241027_v2_84: 1195900712
+      Atlas_Axo+Front_1x_241027_v2_85: 1360669460
+      Atlas_Axo+Front_1x_241027_v2_86: 131579637
+      Atlas_Axo+Front_1x_241027_v2_87: -899323885
+      Atlas_Axo+Front_1x_241027_v2_88: -1561265626
+      Atlas_Axo+Front_1x_241027_v2_89: -169199258
+      Atlas_Axo+Front_1x_241027_v2_9: -644928019
+      Atlas_Axo+Front_1x_241027_v2_90: -1980032517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

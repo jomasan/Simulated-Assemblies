@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cad58e9858d73642bbdcd39c9837b4e, type: 3}
+  m_Name: Waste_data
+  m_EditorClassIdentifier: 
+  resourceName: Waste
+  icon: {fileID: 207599568, guid: d2f1f4e202fc69443b8fb00ce77b13f1, type: 3}
+  resourcePrefab: {fileID: 1116237097334872513, guid: fc246892e685c4946aedf2802c0d9065,
+    type: 3}

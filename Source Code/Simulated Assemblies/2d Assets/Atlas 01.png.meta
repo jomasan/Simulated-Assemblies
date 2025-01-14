@@ -1,0 +1,2138 @@
+fileFormatVersion: 2
+guid: 4cb7b803c103f614ca67b15b030f73f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3623
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1aab932bf5dcf408be36632b1947cb
+      internalID: -32043541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3628
+        width: 13
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc9daaeae46014ca5f494dc5b048aa
+      internalID: 501537323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3627
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad5b3e33a926a42a0705f1424b22ca
+      internalID: 712776450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3625
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7199a21e7aa08fd468ea22e24c285afb
+      internalID: 195944598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3630
+        width: 84
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d8641e8d3424f41a62f8c957b96704
+      internalID: -1958439162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3657
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e31eb03982a31d49b378b12217f8ca3
+      internalID: 1803196911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 3615
+        width: 85
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd01e8725d3417408056fa6b77a94e1
+      internalID: 1091375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_7
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3652
+        width: 4
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83161488279875641ba10541e4043817
+      internalID: 585176121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 3485
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7483315daa643a42a03e84e3da249f5
+      internalID: -7545733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3487
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86b47f75f0b76f4283bd62ba0b880c7
+      internalID: -278711455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3483
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8679f570629d4cb3e69026eeb646e
+      internalID: 1103810590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3483
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec89edab63b7f74bacd474817181ceb
+      internalID: 1094451749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3485
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31dd20efe5a2640a30a65aed8fa502
+      internalID: -571344083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3485
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ae78fb6dd14e94ca5f0b4a0475fc5f
+      internalID: -945379190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3486
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e05d3e8f71e943b4570050d9a8a6b
+      internalID: -98785326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3486
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c693338ac8ce243af6ba9b9dfe1783
+      internalID: 1427512901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_16
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 3467
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af024f2fa85d841937a6d9ec5f23bd
+      internalID: 35674598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3468
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe2c38afbfc424f985cbba4c245826
+      internalID: 1071391889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_18
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3475
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2cbfe7a1f401b4ea70c17ae0473691
+      internalID: 1421687943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3469
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26116c448a398ef4f9f549b22c3b5eb4
+      internalID: 1273236083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3477
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a4cba3ed2b8954a9f546750ddab54a
+      internalID: -2075833717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3372
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f761e19af733d438372bd0f0b83a4b
+      internalID: 315797159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3372
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04945af3c3a0c4b930efc93c1e63ae
+      internalID: 288344676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_23
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3424
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a7f34ed9cfce04b86505620eb237b9
+      internalID: 833018920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_24
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3416
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e86f2bc9cfd28409e651010e0f0de6
+      internalID: 1900574004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3389
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4b9c3851730644af0077bdf2a1d79
+      internalID: -1195723489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_26
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3389
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b614652c3fc9a1479beb75f31f9442b
+      internalID: -1882025729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_27
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 3389
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b27d61c2005904bb51562574508d12
+      internalID: -292416056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_28
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3381
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269d8dc131d6ef4ba2e71911cebf959
+      internalID: 196515604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_29
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3288
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c386f41cc2bf24aafc915f0f98ee10
+      internalID: -575773117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_30
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3297
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a353076681aa44fab5151c2d24627c
+      internalID: 573372385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_31
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3329
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4135003c798048aab61ec537c35e8
+      internalID: -1008505783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3323
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e480238be98246bbe655e0b49358d
+      internalID: 219780713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_33
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3320
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1581c9c5350fb409629982f77a1b4e
+      internalID: 1929739888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3326
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9308c46e5f6852d4e98d71aae5e4b04c
+      internalID: -461482456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_35
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 3323
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824f56fddc14244eba77734a1f166a4
+      internalID: -372224318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_36
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3324
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd2f3516347b1b4d83271f66618bf8d
+      internalID: -1181948345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3220
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5896bbeb034db43936d9d531c2e513
+      internalID: -245623326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3216
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afe65cc521f8ac4983fa7072d0bc064
+      internalID: 1100563446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_39
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3264
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baa23482d3c7c7488a11f127a5588ac
+      internalID: 990003406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 3264
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4314a08a939e468408471ae486b8f993
+      internalID: 406929997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3258
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a7653f3a2b869429762f188c1c1338
+      internalID: -2038636142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_42
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3258
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f692eabf3caa10a418f697502eeafe4c
+      internalID: -1669229809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_43
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3266
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f04607c6bd1f347bc7c03cbeb50c45
+      internalID: 589288925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3217
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f8148a9c232d4db4ee939732f928c
+      internalID: -1479132996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_45
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3210
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98617f61ca80dcc4fb9a48c633a6130d
+      internalID: -129506623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_46
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3210
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22210e66086c9e4b95b22b703d3a536
+      internalID: 77705734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_47
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3195
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed78c309cdf0c4294eaea91b3ee082
+      internalID: -927198268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_48
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3172
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba14d96ab16de469505124d5d13170
+      internalID: 673246747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3178
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cea427976924445b62b73b0dd97252
+      internalID: 2134610940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3162
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6736c790a61374080050fe3a631e07
+      internalID: -1074362143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_51
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3165
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba06211395b614c4bab1161177a25562
+      internalID: -1492846426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_52
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3162
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a59769d758c46488c89a08bb3900a9
+      internalID: 483380272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3155
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c4bcbc4be841147aac12717994fd20
+      internalID: 930051703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_54
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3156
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fb6e800fb82df409af47a83d8c8e94
+      internalID: 92474952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_55
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3165
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9d25bd5fb676541a05642675d50edf
+      internalID: -1943156570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2787
+        width: 28
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313025b333d0b574b8e5dd42e2d90c1d
+      internalID: 914904669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_57
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2786
+        width: 28
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fbbf59f63a25b4387f19e756b046ff
+      internalID: 1139488231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_58
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2890
+        width: 42
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f5c96bae0292043bf947e203fa5f05
+      internalID: -1851648662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2940
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f2dd4a96c5f04c8e11663e3a658ef
+      internalID: 391988821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_60
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2921
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b26baf1e083540964fd12d0d9b522
+      internalID: 1446168764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_61
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2972
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ed62872b43d543a117c6a6e174178
+      internalID: 79900855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_62
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2961
+        width: 21
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9db04eee77b5a459bd39655f937a4a
+      internalID: -267280028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_63
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2945
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd723e4b3cbbb784b920255d4f481f82
+      internalID: -722446036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_64
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2945
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50a4311ed544c49b7de707016aa44d
+      internalID: -1503753639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_65
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2945
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10a5284815426e4fba6f2c464c569e5
+      internalID: 1642162265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_66
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2945
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa6fd487aaab454893810eb4903e3f0
+      internalID: -1686984412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_67
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2945
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c826109f23c64db2a0014de161203
+      internalID: 1463011224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_68
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2946
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07b3e5322b5af4f9adfb37e2d4fd7e
+      internalID: 823096989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_69
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2922
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6b40d8f3963c4b9e99f0c75ddc085
+      internalID: -951713652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_70
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2782
+        width: 57
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588b78c83fc51454f8f2e696fc28a02c
+      internalID: -432987762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_71
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2790
+        width: 30
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79eb80eae8edb0448535e133e806741
+      internalID: -1466727167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_72
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2790
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6316d1b59c78c429a9c440f43449b7
+      internalID: -553236369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_73
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2791
+        width: 28
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090dd4062a152964b808c471589b87e5
+      internalID: -1450861112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_74
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2867
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4b873218beb04e99628c1c6ccad42
+      internalID: 311695704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_75
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2867
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7648df296cd485648afc2eb72df76170
+      internalID: -79107857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_76
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2867
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ddc3b972849a4dbecce09ab1bc7ae
+      internalID: -464221036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_77
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2875
+        width: 81
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2a982e24bfb74c88d9fdae7e4ca67
+      internalID: 1293652845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_78
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2787
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da335a631c8865e4fa131524e45168ed
+      internalID: -1857500331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_79
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2787
+        width: 41
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f890119f8c3754daa66491565d484c
+      internalID: -754243996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_80
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2792
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174461739ab70e745acfa376dba9aa66
+      internalID: -1480426864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_81
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2791
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad62eb42d922a47914d30e3bf1d5d3
+      internalID: 361695556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_82
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2791
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3559084053f5634cb442834df36991b
+      internalID: -1689723859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_83
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2787
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d40527da08884297bfe8c4e98d534
+      internalID: 1778815696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_84
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2791
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2520ec65606aced4cbe6f2405ee39c8b
+      internalID: 1357788517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_85
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2783
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1110a539958f064ca9282b8075a50d1
+      internalID: -1938514871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_86
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2614
+        width: 201
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43314ebce78e3ba40bd622a847981488
+      internalID: 676788814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_87
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2615
+        width: 201
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54594a29a0ce9548b9438a2a2e6c3b2
+      internalID: -1106382415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_88
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2619
+        width: 171
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c39c5ed7a019024fba4b7a122965e82
+      internalID: -130243218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_89
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2448
+        width: 201
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dacff15d5de40e4cbace6f4f7bca313
+      internalID: 1681633606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_90
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2469
+        width: 321
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2536ad5e8c0e1b41bbc1aa8df8875d9
+      internalID: -398069231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 241027_SimAssemblyLibrary_Assets_91
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2105
+        width: 470
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4ebdf72770e03469b44180b41e4ba3
+      internalID: 320844226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5796f5450cac364fa17be7b7bb8b873
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      241027_SimAssemblyLibrary_Assets_0: -32043541
+      241027_SimAssemblyLibrary_Assets_1: 501537323
+      241027_SimAssemblyLibrary_Assets_10: 1103810590
+      241027_SimAssemblyLibrary_Assets_11: 1094451749
+      241027_SimAssemblyLibrary_Assets_12: -571344083
+      241027_SimAssemblyLibrary_Assets_13: -945379190
+      241027_SimAssemblyLibrary_Assets_14: -98785326
+      241027_SimAssemblyLibrary_Assets_15: 1427512901
+      241027_SimAssemblyLibrary_Assets_16: 35674598
+      241027_SimAssemblyLibrary_Assets_17: 1071391889
+      241027_SimAssemblyLibrary_Assets_18: 1421687943
+      241027_SimAssemblyLibrary_Assets_19: 1273236083
+      241027_SimAssemblyLibrary_Assets_2: 712776450
+      241027_SimAssemblyLibrary_Assets_20: -2075833717
+      241027_SimAssemblyLibrary_Assets_21: 315797159
+      241027_SimAssemblyLibrary_Assets_22: 288344676
+      241027_SimAssemblyLibrary_Assets_23: 833018920
+      241027_SimAssemblyLibrary_Assets_24: 1900574004
+      241027_SimAssemblyLibrary_Assets_25: -1195723489
+      241027_SimAssemblyLibrary_Assets_26: -1882025729
+      241027_SimAssemblyLibrary_Assets_27: -292416056
+      241027_SimAssemblyLibrary_Assets_28: 196515604
+      241027_SimAssemblyLibrary_Assets_29: -575773117
+      241027_SimAssemblyLibrary_Assets_3: 195944598
+      241027_SimAssemblyLibrary_Assets_30: 573372385
+      241027_SimAssemblyLibrary_Assets_31: -1008505783
+      241027_SimAssemblyLibrary_Assets_32: 219780713
+      241027_SimAssemblyLibrary_Assets_33: 1929739888
+      241027_SimAssemblyLibrary_Assets_34: -461482456
+      241027_SimAssemblyLibrary_Assets_35: -372224318
+      241027_SimAssemblyLibrary_Assets_36: -1181948345
+      241027_SimAssemblyLibrary_Assets_37: -245623326
+      241027_SimAssemblyLibrary_Assets_38: 1100563446
+      241027_SimAssemblyLibrary_Assets_39: 990003406
+      241027_SimAssemblyLibrary_Assets_4: -1958439162
+      241027_SimAssemblyLibrary_Assets_40: 406929997
+      241027_SimAssemblyLibrary_Assets_41: -2038636142
+      241027_SimAssemblyLibrary_Assets_42: -1669229809
+      241027_SimAssemblyLibrary_Assets_43: 589288925
+      241027_SimAssemblyLibrary_Assets_44: -1479132996
+      241027_SimAssemblyLibrary_Assets_45: -129506623
+      241027_SimAssemblyLibrary_Assets_46: 77705734
+      241027_SimAssemblyLibrary_Assets_47: -927198268
+      241027_SimAssemblyLibrary_Assets_48: 673246747
+      241027_SimAssemblyLibrary_Assets_49: 2134610940
+      241027_SimAssemblyLibrary_Assets_5: 1803196911
+      241027_SimAssemblyLibrary_Assets_50: -1074362143
+      241027_SimAssemblyLibrary_Assets_51: -1492846426
+      241027_SimAssemblyLibrary_Assets_52: 483380272
+      241027_SimAssemblyLibrary_Assets_53: 930051703
+      241027_SimAssemblyLibrary_Assets_54: 92474952
+      241027_SimAssemblyLibrary_Assets_55: -1943156570
+      241027_SimAssemblyLibrary_Assets_56: 914904669
+      241027_SimAssemblyLibrary_Assets_57: 1139488231
+      241027_SimAssemblyLibrary_Assets_58: -1851648662
+      241027_SimAssemblyLibrary_Assets_59: 391988821
+      241027_SimAssemblyLibrary_Assets_6: 1091375
+      241027_SimAssemblyLibrary_Assets_60: 1446168764
+      241027_SimAssemblyLibrary_Assets_61: 79900855
+      241027_SimAssemblyLibrary_Assets_62: -267280028
+      241027_SimAssemblyLibrary_Assets_63: -722446036
+      241027_SimAssemblyLibrary_Assets_64: -1503753639
+      241027_SimAssemblyLibrary_Assets_65: 1642162265
+      241027_SimAssemblyLibrary_Assets_66: -1686984412
+      241027_SimAssemblyLibrary_Assets_67: 1463011224
+      241027_SimAssemblyLibrary_Assets_68: 823096989
+      241027_SimAssemblyLibrary_Assets_69: -951713652
+      241027_SimAssemblyLibrary_Assets_7: 585176121
+      241027_SimAssemblyLibrary_Assets_70: -432987762
+      241027_SimAssemblyLibrary_Assets_71: -1466727167
+      241027_SimAssemblyLibrary_Assets_72: -553236369
+      241027_SimAssemblyLibrary_Assets_73: -1450861112
+      241027_SimAssemblyLibrary_Assets_74: 311695704
+      241027_SimAssemblyLibrary_Assets_75: -79107857
+      241027_SimAssemblyLibrary_Assets_76: -464221036
+      241027_SimAssemblyLibrary_Assets_77: 1293652845
+      241027_SimAssemblyLibrary_Assets_78: -1857500331
+      241027_SimAssemblyLibrary_Assets_79: -754243996
+      241027_SimAssemblyLibrary_Assets_8: -7545733
+      241027_SimAssemblyLibrary_Assets_80: -1480426864
+      241027_SimAssemblyLibrary_Assets_81: 361695556
+      241027_SimAssemblyLibrary_Assets_82: -1689723859
+      241027_SimAssemblyLibrary_Assets_83: 1778815696
+      241027_SimAssemblyLibrary_Assets_84: 1357788517
+      241027_SimAssemblyLibrary_Assets_85: -1938514871
+      241027_SimAssemblyLibrary_Assets_86: 676788814
+      241027_SimAssemblyLibrary_Assets_87: -1106382415
+      241027_SimAssemblyLibrary_Assets_88: -130243218
+      241027_SimAssemblyLibrary_Assets_89: 1681633606
+      241027_SimAssemblyLibrary_Assets_9: -278711455
+      241027_SimAssemblyLibrary_Assets_90: -398069231
+      241027_SimAssemblyLibrary_Assets_91: 320844226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

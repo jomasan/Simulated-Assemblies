@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 039d4a6bd57d35947bb974804be53fc7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_0
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1244
+        width: 230
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091459da88deff049bd42c68ca9f0370
+      internalID: 1182415713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1253
+        width: 25
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8189b21be7ec4c43b11a3da1b4ee81c
+      internalID: -222692530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_2
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1239
+        width: 177
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63afee61ec0a4a640afc6ca4a9b99377
+      internalID: -1141014966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_3
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1061
+        width: 572
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48d469c06acfd340ab99aa592e68104
+      internalID: -584324331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_4
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1037
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6df3cb14a813c4e86a08fbeadedb73
+      internalID: 594170798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1037
+        width: 184
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f930735b73cb4f4f83dc85e3875b566
+      internalID: 1839785077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1034
+        width: 66
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba0fd8badd2bec48981d104c4c67e2b
+      internalID: -1649581688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_7
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 843
+        width: 137
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2724b0c5c49494c8f0ad782933a916
+      internalID: -1449541623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_8
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 937
+        width: 203
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c135483927d574419f75d09302293fc
+      internalID: -999473446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 776
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6471779f534a67f4cba97a2b0c950c5f
+      internalID: -1484687321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 757
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a8d71fc00f1247a14e06c915e8114
+      internalID: -2136791186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 741
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b609ae9232fdcd4f92caf3be9993e21
+      internalID: -2010704737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_12
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 741
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f99765ce52b44faa14acdbc1e5eed
+      internalID: -1577557258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_13
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 608
+        width: 65
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015cc750a6d47904cba1566879ed0fee
+      internalID: -730727455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 659
+        width: 130
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb37afdc3ef8ba4e86a7dbf99e0598f
+      internalID: 336278541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_15
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 720
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c31f4eb34c6b40a929258330a4ce9
+      internalID: -196719796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_16
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 722
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77050b79e2e0fb14fb2459d00a7edc4c
+      internalID: 44888934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_17
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 722
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620efae305cd4404fb1c2362d918c8d9
+      internalID: 133305944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 709
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7317f64c3b74aa643952e023ce40eafa
+      internalID: 1714254307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_19
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 708
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d699fb2084f14191123355282580d
+      internalID: -1538778664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_20
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 734
+        width: 48
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2490768512e50624d8ddcb37702efe66
+      internalID: 675767693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_21
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 713
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa8ed2f786164d41b3a7ba740ffb6d8
+      internalID: -91671707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_22
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 717
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c208141dae133454aaec3151016e2e3e
+      internalID: -1843454988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_23
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 717
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ca4ef87e084d46aec35fcc952ce9e
+      internalID: 1873202656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 585
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9649ddee161909048b94c700d94e89a9
+      internalID: -1094073231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 589
+        width: 131
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862887e28df0e4c4b86ede69cdb661a6
+      internalID: -487874749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 652
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fdd72ff69c08b4eaf86fb3916b4492
+      internalID: 40559402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_27
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 607
+        width: 103
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9b551c7b8a4de45a1cc83a0f045626
+      internalID: 1087448752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_28
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 665
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d9888f18614c489976ac9d0b1c290
+      internalID: -655776204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_29
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 611
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb61bb7087c9a64d89d8ae37f01d51e
+      internalID: 879149435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_30
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 611
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7baf623341524e48bde454af3216517
+      internalID: -436359075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_31
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 632
+        width: 243
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b009f657483f4f4ca6b470116059c1f
+      internalID: 1190210215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_32
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 622
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b73c91c6c32004e9a748a00328eb36
+      internalID: 2088986336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_33
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 623
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05c23feb783504186fa4b59ae2a95f
+      internalID: -336000988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_34
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 579
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f48d88e0d8dcd42a3435371262748a
+      internalID: -674195905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_35
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 579
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce89ef6c108fb942b0d728c0d81cca1
+      internalID: -1716644146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_36
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 584
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98d062dbeac7bf49b71e5a6c40e657c
+      internalID: -1219453856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_37
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 480
+        width: 196
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d497ca00e31a547bc6b7a7006d0169
+      internalID: 689349658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 378
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f9ef5acbd1d5745bee478fb871b1c6
+      internalID: 376007107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_39
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 347
+        width: 184
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a78a9023b29f247b728f6730855206
+      internalID: 981905763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_40
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 343
+        width: 250
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02a8658c928734092197b93b8f0cbe
+      internalID: -484605137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_41
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 347
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2639c9a232e94ab2ebd4b5eef6c6c
+      internalID: 1220459908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_42
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 425
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91325edf4aa68824395fdf8920c1a595
+      internalID: 1800348132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_43
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 375
+        width: 245
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce943410bc86a148b10fbc015ffeb63
+      internalID: 949665352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_44
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 393
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b58a0a508acb41a4156cb1cb7fbf6
+      internalID: 1032124708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_45
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 387
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f86566dd43434eab75826e2978bc9
+      internalID: -1950523401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_46
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 393
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9f40d6b0c6424488295d1230c73a40
+      internalID: 1001256546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_47
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 389
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a61db507aab2f4f92c414f7b2257c5
+      internalID: 769033962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 235
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9947d7d44414b2c4da6a269a58b91d2a
+      internalID: -323770587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 237
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922e2a421f6d3447bc43a301d20eb06
+      internalID: -752364543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_50
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 161
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb9e650e6aa5445848199672a7a209
+      internalID: 1616885861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_51
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 161
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be23980daa04d7d41a660db4eb04d45f
+      internalID: -802789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_52
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 151
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95822c23030a48543b832a672db819bd
+      internalID: 1750128200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_53
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 88
+        width: 248
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e27de6ac7cbff44b6eb62d9c52bc2b
+      internalID: 1794663673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_54
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 196
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3264a7264ceea4a9e7b1110ebdd7b4
+      internalID: -691581025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_55
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 196
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba38fd4133cb54195dc9120ef93434
+      internalID: 704396430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_56
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 196
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91c7a7c2fa1cc48a3a5ba7b3bada84
+      internalID: 270554017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_57
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 164
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c6a7da451b0c40a8c534b815f9908
+      internalID: 1171169012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_58
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 170
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc440cbef84b7fc43ba5a033edde103e
+      internalID: 316864009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midterm buildings_tounity-06_59
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 175
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fd1a24cfa9a034cba4132bd4a4eaee
+      internalID: 2080186587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d89df89ea3d7cf948818cc91f84470d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Midterm buildings_tounity-06_0: 1182415713
+      Midterm buildings_tounity-06_1: -222692530
+      Midterm buildings_tounity-06_10: -2136791186
+      Midterm buildings_tounity-06_11: -2010704737
+      Midterm buildings_tounity-06_12: -1577557258
+      Midterm buildings_tounity-06_13: -730727455
+      Midterm buildings_tounity-06_14: 336278541
+      Midterm buildings_tounity-06_15: -196719796
+      Midterm buildings_tounity-06_16: 44888934
+      Midterm buildings_tounity-06_17: 133305944
+      Midterm buildings_tounity-06_18: 1714254307
+      Midterm buildings_tounity-06_19: -1538778664
+      Midterm buildings_tounity-06_2: -1141014966
+      Midterm buildings_tounity-06_20: 675767693
+      Midterm buildings_tounity-06_21: -91671707
+      Midterm buildings_tounity-06_22: -1843454988
+      Midterm buildings_tounity-06_23: 1873202656
+      Midterm buildings_tounity-06_24: -1094073231
+      Midterm buildings_tounity-06_25: -487874749
+      Midterm buildings_tounity-06_26: 40559402
+      Midterm buildings_tounity-06_27: 1087448752
+      Midterm buildings_tounity-06_28: -655776204
+      Midterm buildings_tounity-06_29: 879149435
+      Midterm buildings_tounity-06_3: -584324331
+      Midterm buildings_tounity-06_30: -436359075
+      Midterm buildings_tounity-06_31: 1190210215
+      Midterm buildings_tounity-06_32: 2088986336
+      Midterm buildings_tounity-06_33: -336000988
+      Midterm buildings_tounity-06_34: -674195905
+      Midterm buildings_tounity-06_35: -1716644146
+      Midterm buildings_tounity-06_36: -1219453856
+      Midterm buildings_tounity-06_37: 689349658
+      Midterm buildings_tounity-06_38: 376007107
+      Midterm buildings_tounity-06_39: 981905763
+      Midterm buildings_tounity-06_4: 594170798
+      Midterm buildings_tounity-06_40: -484605137
+      Midterm buildings_tounity-06_41: 1220459908
+      Midterm buildings_tounity-06_42: 1800348132
+      Midterm buildings_tounity-06_43: 949665352
+      Midterm buildings_tounity-06_44: 1032124708
+      Midterm buildings_tounity-06_45: -1950523401
+      Midterm buildings_tounity-06_46: 1001256546
+      Midterm buildings_tounity-06_47: 769033962
+      Midterm buildings_tounity-06_48: -323770587
+      Midterm buildings_tounity-06_49: -752364543
+      Midterm buildings_tounity-06_5: 1839785077
+      Midterm buildings_tounity-06_50: 1616885861
+      Midterm buildings_tounity-06_51: -802789858
+      Midterm buildings_tounity-06_52: 1750128200
+      Midterm buildings_tounity-06_53: 1794663673
+      Midterm buildings_tounity-06_54: -691581025
+      Midterm buildings_tounity-06_55: 704396430
+      Midterm buildings_tounity-06_56: 270554017
+      Midterm buildings_tounity-06_57: 1171169012
+      Midterm buildings_tounity-06_58: 316864009
+      Midterm buildings_tounity-06_59: 2080186587
+      Midterm buildings_tounity-06_6: -1649581688
+      Midterm buildings_tounity-06_7: -1449541623
+      Midterm buildings_tounity-06_8: -999473446
+      Midterm buildings_tounity-06_9: -1484687321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
